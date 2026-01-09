@@ -1,0 +1,8 @@
+FastAPI adalah framework backend Python yang cepat dan modern.
+FastAPI mendukung async dan OpenAPI.
+
+RAG adalah metode yang menggabungkan pencarian dokumen dengan LLM.
+RAG membantu mengurangi hallucination.
+
+Ollama menjalankan LLM secara lokal.
+Model phi4 cocok untuk reasoning ringan.
